@@ -35,7 +35,7 @@ The most advanced Minecraft account checker available. Validates accounts and de
 ✅ Hypixel Ranks (MVP+, MVP++, etc.)
 ✅ Name change availability
 ✅ Account security status
-✅ Active Realm subscriptions
+✅ Active Realm subscription
 ```
 
 ## ⚡ Premium Features
